@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justinerayupano
-- 👀 I’m interested in python
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on my classmates
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning ReactJS, Django, MySQL, and SASS
+- 💞️ I’m looking to collaborate with Web developers
 
 <!---
 justinerayupano/justinerayupano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
