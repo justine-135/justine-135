@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinerayupano
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning React-redux
 
 <!---
 justinerayupano/justinerayupano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
