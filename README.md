@@ -18,8 +18,8 @@ My love for software revolves around envisioning concepts and bringing them to l
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 🚧 **My todo list stats:**
-<!-- TODO-IST:START -->           
-🌸  Completed 0 tasks today           
+<!-- TODO-IST:START -->         
+💻  Doing 1 tasks so far
 ✅  Completed 8 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
