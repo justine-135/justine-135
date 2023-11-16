@@ -20,6 +20,6 @@ My love for software revolves around envisioning concepts and bringing them to l
 🚧 **My todo list stats:**
 <!-- TODO-IST:START -->         
 💻  Doing 1 tasks so far <br>
-✅  Completed 17 tasks so far <br>
+✅  Completed 25 tasks so far <br>
 ⏳  Longest streak is 8 days <br>
 <!-- TODO-IST:END -->
