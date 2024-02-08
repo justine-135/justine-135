@@ -18,6 +18,6 @@ Hey there! I'm **Justine Upano**, a passionate **Frontend Software Developer** a
 🚧 **My todo list stats:**
 <!-- TODO-IST:START -->         
 💻  Doing 1 tasks so far <br>
-✅  Completed 25 tasks so far <br>
+✅  Completed 66 tasks so far <br>
 ⏳  Longest streak is 8 days <br>
 <!-- TODO-IST:END -->
