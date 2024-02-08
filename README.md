@@ -1,6 +1,4 @@
-Hi, i'm **Justine Upano**, a passionate **Frontend Software Developer 💻** and a **Computer Engineer 🦾** from Manila 🇵🇭. I am currently a developer from [Newstars Solutions INC](https://www.newstarsinc.com/). I help create features for a wide range of software applications, contributing my expertise to enhance the functionality and usability of these programs. Whether it's developing new capabilities to streamline business processes, designing user-friendly interfaces to improve user interactions, or implementing innovative solutions to meet specific needs, I collaborate with a diverse team to bring these features to fruition. 
-
-My love for software revolves around envisioning concepts and bringing them to life through graceful user interfaces. I prioritize crafting exceptional user experiences and ensuring the excellence of both the architecture and the code in everything I create.
+Hey there! I'm **Justine Upano**, a passionate **Frontend Software Developer** and Computer Engineer from Manila. Currently at **Newstars Solutions INC**, I specialize in crafting user-friendly interfaces and enhancing software functionality. With a keen eye for detail and a love for elegant design, I bring concepts to life with exceptional user experiences.
 
 <img align="right" alt="GIF" src="https://github.com/justine-135/justine-135/assets/68592173/685a137a-de1a-4ed8-8961-4ed8112a61c2" width="500" height="320" />
   
